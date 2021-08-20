@@ -1,4 +1,4 @@
 #! /bin/bash
 echo hello world
 
-echo -e \nwelcome\ndevops
+echo -e "\nwelcome\ndevops"
