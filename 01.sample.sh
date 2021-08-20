@@ -1,4 +1,4 @@
 #! /bin/bash
 echo hello world
 
-echo -e /nwelcome/n devops
+echo -e \nwelcome\n devops
